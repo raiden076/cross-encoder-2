@@ -3,3 +3,4 @@ wandb/
 runs/
 old/
 transformers-cross-encoder.ipynb
+best_model.pt
